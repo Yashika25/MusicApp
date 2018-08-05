@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Yomber Music</string>
+    <string name="welcome_to_yomber_music_app_click_play_button_to_continue">Welcome to Yomber Music App! Click Play button to continue.</string>
+    <string name="play_music">Play Music</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="playlist">Playing</string>
+    <string name="song_title">Song Title</string>
+    <string name="todo">TODO</string>
+    <string name="song_time">Song Time</string>
+    <string name="song_artist">Song Artist</string>
+    <string name="todoo">TODO</string>
+    <string name="albumn">Albumn</string>
+    <string name="songs">Songs</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="currently_playing">Currently Playing</string>
+    <string name="playing_image">TODO</string>
+
+    <string name="song1">Helplessly</string>
+    <string name="artist1">Tatiana Manaois</string>
+    <string name="time1">3:16</string>
+
+    <string name="song2">F.R.I.E.N.D.S. Theme Song</string>
+    <string name="artist2">The Rembrandts</string>
+    <string name="time2">1:26</string>
+
+    <string name="song3">Thinking Bout You</string>
+    <string name="artist3">Ariana Grande</string>
+    <string name="time3">2:52</string>
+
+    <string name="song4">Something Just Like This</string>
+    <string name="artist4">Coldplay, The Chainsmokers</string>
+    <string name="time4">4:08</string>
+
+    <string name="song5">New Rules</string>
+    <string name="artist5">Dua Lipa</string>
+    <string name="time5">3:52</string>
+
+    <string name="song6">Look What You Made Me Do</string>
+    <string name="artist6">Taylor Swift</string>
+    <string name="time6">3:52</string>
+
+    <string name="song7">It Ain\'t Me</string>
+    <string name="artist7">Kygo and Selena Gomez</string>
+    <string name="time7">3:41</string>
+
+    <string name="song8">Stay a Little Longer</string>
+    <string name="artist8">Anushka Shahaney</string>
+    <string name="time8">5:02</string>
+
+    <string name="song9">I open my  eyes</string>
+    <string name="artist9">Zitten</string>
+    <string name="time9">4:36</string>
+
+    <string name="song10">Where We</string>
+    <string name="artist10">Ryu Ji Hyun and Kyung Hee</string>
+    <string name="time10">3:22</string>
+
+    <string name="song11">Just Missing You</string>
+    <string name="artist11">Ra.D.</string>
+    <string name="time11">3:56</string>
+
+    <string name="song12">What do you need to say</string>
+    <string name="artist12">Junho</string>
+    <string name="time12">4:10</string>
+
+    <string name="song13">Stay</string>
+    <string name="artist13">Changmin</string>
+    <string name="time13">4:04</string>
+
+    <string name="song14">Aurora</string>
+    <string name="artist14">Savina and Drones</string>
+    <string name="time14">5:15</string>
+
+    <string name="song15">Uff Yeh Noor</string>
+    <string name="artist15">Armaan Malik</string>
+    <string name="time15">3:17</string>
+
+    <string name="song16">Kho Jaane De</string>
+    <string name="artist16">Kusum Verma</string>
+    <string name="time16">4:57</string>
+
+    <string name="song17">Humsafar</string>
+    <string name="artist17">Akhil Sachdeva</string>
+    <string name="time17">4:29</string>
+
+    <string name="song18">Tamma Tamma Again</string>
+    <string name="artist18">Badshah, Bappi Lahiri and Anuradha Paudwal</string>
+    <string name="time18">3:19</string>
+
+    <string name="song19">Sukoon Mila</string>
+    <string name="artist19">Arijit Singh</string>
+    <string name="time19">3:20</string>
+
+    <string name="song20">Afeemi</string>
+    <string name="artist20">Sachin Jigar and Sanah Moidutty</string>
+    <string name="time20">4:10</string>
+
+    <string name="song21">Safar</string>
+    <string name="artist21">Arijit Singh</string>
+    <string name="time21">6:06</string>
+
+    <string name="song22">Shayrana</string>
+    <string name="artist22">Shalmali Kholgade</string>
+    <string name="time22">4:18</string>
+
+</resources>

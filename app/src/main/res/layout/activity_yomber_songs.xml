@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_image"
+    android:orientation="vertical"
+    tools:context=".YomberSongs">
+
+    <TextView
+        android:id="@+id/intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:text="@string/welcome_to_yomber_music_app_click_play_button_to_continue"
+        android:textColor="#E0F7FA"
+        android:textSize="35sp" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="80dp"
+        android:background="#26C6DA">
+
+        <Button
+            android:id="@+id/goto_list"
+            style="@style/ButtonStyle"
+            android:text="@string/play_music" />
+
+    </FrameLayout>
+
+</LinearLayout>
